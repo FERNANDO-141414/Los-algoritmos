@@ -16,3 +16,5 @@ Se puede colaborar con personas, publicar codigos y tambien editar y hacer petic
 - Escuchar bien
 - 2 gramos de proteina por kg de peso
 - Saber Ecuaciones Diferenciales Parciales del tipo: $K_{0}+\frac{du}{dx}=0$
+
+# Nueva seccion
